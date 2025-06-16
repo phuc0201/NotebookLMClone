@@ -1,0 +1,35 @@
+.homepage-plus-gradient1 {
+  inset: 90vh 0 0 -50vw;
+  background: #7182ff;
+  border-radius: 1270.641px;
+  filter: blur(81.1003341675px);
+  height: 100vh;
+  -webkit-filter: blur(81.1003341675px);
+  opacity: 0.4;
+  position: fixed;
+  width: 100vw;
+}
+
+.homepage-plus-gradient2 {
+  background: rgba(60, 255, 82, 0.502);
+  border-radius: 1044.816px;
+  -webkit-filter: blur(81.1003341675px);
+  filter: blur(81.1003341675px);
+  inset: 85vh 0 0 -20vw;
+  height: 100vh;
+  opacity: 0.4;
+  position: fixed;
+  width: 100vw;
+}
+
+.homepage-plus-gradient3 {
+  background: #7182ff;
+  inset: 90vh 0 0 50vw;
+  border-radius: 1270.641px;
+  -webkit-filter: blur(81.1003341675px);
+  filter: blur(81.1003341675px);
+  height: 100vh;
+  opacity: 0.4;
+  position: fixed;
+  width: 100vw;
+}
